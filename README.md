@@ -16,11 +16,11 @@ pip3 install -r requirements.txt
 ```
 
 ## Running
-- Open the simulator car
-- ```shell
+Open the simulator car
+```shell
 python3 drive.py
 ```
-- Run the car in autonomous mode
+Run the car in autonomous mode
 
 
 ## Results of different model
